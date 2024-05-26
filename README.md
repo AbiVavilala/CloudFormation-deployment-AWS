@@ -28,6 +28,22 @@ Under resource you can see resource created
 
 ![](https://github.com/AbiVavilala/CloudFormation-deployment-AWS/blob/main/pics/resourcescreated.png)
 
+## Let's see the resource created in the portal
+
+We can see VPC resources created in console
+
+![](https://github.com/AbiVavilala/CloudFormation-deployment-AWS/blob/main/pics/VPCresourcescreated.png)
+
+We can see EC2 instance created in Console
+
+![](https://github.com/AbiVavilala/CloudFormation-deployment-AWS/blob/main/pics/webservercreated.png)
+
+## Access the webserver
+
+Let's access the server 
+
+![](https://github.com/AbiVavilala/CloudFormation-deployment-AWS/blob/main/pics/accessserver.png)
+
 
 
 
