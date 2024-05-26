@@ -6,4 +6,33 @@ In this project I deployed EC2 instance as a web server in AWS. I also deployed 
 
 ![](https://github.com/AbiVavilala/CloudFormation-deployment-AWS/blob/main/pics/architecturenew.png)
 
+## Upload the template to AWS
+
+I will upload Cloudinfra.yml to AWS Cloud Formation
+
+![](https://github.com/AbiVavilala/CloudFormation-deployment-AWS/blob/main/pics/uploadtemplate.png)
+
+
+I will give parameter values AMIID and Environment name
+
+![](https://github.com/AbiVavilala/CloudFormation-deployment-AWS/blob/main/pics/parameters.png)
+
+you can leave configure option as default and click next. Then click on Submit your template
+![](https://github.com/AbiVavilala/CloudFormation-deployment-AWS/blob/main/pics/submit.png)
+
+Under Events you can see creation in progress
+
+![](https://github.com/AbiVavilala/CloudFormation-deployment-AWS/blob/main/pics/creationinprogress.png)
+
+Under resource you can see resource created
+
+![](https://github.com/AbiVavilala/CloudFormation-deployment-AWS/blob/main/pics/resourcescreated.png)
+
+
+
+
+
+
+
+
 
